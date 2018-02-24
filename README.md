@@ -11,4 +11,6 @@ git remote -v (显示fetch 和push的地址，可以看到是否是自己想要�
         origin  https://github.com/WxmDe/springBoot.git (push)
 git add . (提交到缓存区)
 git commit -m "v1..0" （提交到head）
+
 git push -u origin master （提交到远程仓库）
+
