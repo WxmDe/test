@@ -17,7 +17,7 @@
 
                 origin  https://github.com/WxmDe/springBoot.git (push)
 
-        git add . (提交到缓存区)
+        git add . (提交到缓存区) （. 代表提交所有文件，如果只提交指定的文件则输入文件名）
 
         git commit -m "v1..0" （提交到head）
 
